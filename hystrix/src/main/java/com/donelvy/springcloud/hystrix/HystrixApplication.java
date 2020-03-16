@@ -1,13 +1,13 @@
-package com.donlevy.springcloud.hytrix;
+package com.donelvy.springcloud.hystrix;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HytrixApplication {
+public class HystrixApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HytrixApplication.class, args);
+        SpringApplication.run(HystrixApplication.class, args);
     }
 
 }

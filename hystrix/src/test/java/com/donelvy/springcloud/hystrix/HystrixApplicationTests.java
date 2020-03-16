@@ -1,10 +1,10 @@
-package com.donlevy.springcloud.hytrix;
+package com.donelvy.springcloud.hystrix;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HytrixApplicationTests {
+class HystrixApplicationTests {
 
     @Test
     void contextLoads() {

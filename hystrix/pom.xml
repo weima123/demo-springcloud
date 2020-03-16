@@ -8,11 +8,11 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.donlevy.springcloud</groupId>
-    <artifactId>hytrix</artifactId>
+    <artifactId>hystrix</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
-    <name>hytrix</name>
-    <description>hytrix demo of donlevy</description>
+    <name>hystrix</name>
+    <description>hystrix demo of donlevy</description>
+
 
 
 </project>
