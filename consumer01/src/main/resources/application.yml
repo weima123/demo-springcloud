@@ -6,5 +6,5 @@ eureka:
 
 spring:
   application:
-    name: producer01
+    name: consumer01
 

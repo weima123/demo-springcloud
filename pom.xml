@@ -19,6 +19,7 @@
         <module>eureka</module>
         <module>hystrix</module>
         <module>producer01</module>
+        <module>consumer01</module>
     </modules>
 
 
@@ -35,6 +36,11 @@
             <groupId>commons-logging</groupId>
             <artifactId>commons-logging</artifactId>
             <version>1.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-feign</artifactId>
+            <version>1.3.1.RELEASE</version>
         </dependency>
     </dependencies>
 

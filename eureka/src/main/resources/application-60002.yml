@@ -7,7 +7,3 @@ eureka:
     service-url:
       defaultZone: http://localhost:60001/eureka
 
-spring:
-  application:
-    name: eureka-server-6002
-

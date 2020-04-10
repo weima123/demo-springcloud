@@ -8,6 +8,3 @@ eureka:
       defaultZone: http://localhost:60002/eureka
 
 
-spring:
-  application:
-    name: eureka-server-6001

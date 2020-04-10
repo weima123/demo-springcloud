@@ -9,3 +9,6 @@ eureka:
     ## 是否要从其他服务获取服务注册信息,默认true
     fetch-registry: true
 
+spring:
+  application:
+    name: eureka-server
