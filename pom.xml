@@ -20,6 +20,8 @@
         <module>hystrix</module>
         <module>producer01</module>
         <module>consumer01</module>
+        <module>bus</module>
+        <module>config</module>
     </modules>
 
 
